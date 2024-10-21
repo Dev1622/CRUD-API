@@ -84,8 +84,3 @@ public class AgentResource {
         }
     }
 }
-
-// logger
-// throwing exception
-// interceptor
-// swagger UI
